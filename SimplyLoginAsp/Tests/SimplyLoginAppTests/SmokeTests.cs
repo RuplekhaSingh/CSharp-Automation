@@ -26,6 +26,7 @@ namespace SimplyLoginAppTests
 
             // Validation
             Assert.NotNull(response);
+            //cleanup
         }
     }
 }
